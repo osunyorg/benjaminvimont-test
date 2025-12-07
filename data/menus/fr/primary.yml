@@ -8,13 +8,6 @@ items:
   children: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Offres d'emploi
-  target: "/offres-d-emploi/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/jobs"
-  file: content/fr/jobs/_index.html
 - title: Expositions
   target: "/expositions/"
   kind: page
@@ -50,6 +43,13 @@ items:
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
+- title: Offres d'emploi
+  target: "/offres-d-emploi/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/jobs"
+  file: content/fr/jobs/_index.html
 - title: Test
   target: "/test-1/"
   kind: page
